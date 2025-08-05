@@ -1,8 +1,9 @@
-# COVID-19 <img src="./img/corona.gif" height="50px" width="50px" />  [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!  🦠  :mask:
+# COVID-19 🦠 <img src="./img/corona.gif" height="50px" width="50px" />  
+## [Let's fight together with Corona!](https://corona-cases-india.netlify.com/) :mask:
 
-[![COVID-19 Dashboard](./img/covid19-dashboard.png)](https://indiafightscorona.netlify.com/)
+[![🧭 COVID-19 Dashboard](./img/covid19-dashboard.png)](https://indiafightscorona.netlify.com/)
 
-> ## Do checkout latest [COVID-19 Tracker :bar_chart: | INDIA](https://indiafightscorona.netlify.com/) :india:
+> ## 🚨 Check out the latest [**COVID-19 Tracker 📊 | INDIA 🇮🇳**](https://indiafightscorona.netlify.com/)
 
 ```bash
 ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
@@ -15,11 +16,10 @@
 
 # :man: :blonde_woman: :house: :mask: :pray:
 
-### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status)](https://app.netlify.com/sites/indiafightscorona/deploys)
 
 #### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
 
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gayatri192005)
 
 I’m sure you’ll agree that, at this point, it isn’t an exaggeration
 to say that we are at war against the coronavirus and that it is a
@@ -31,9 +31,9 @@ family.
 
 > [This](https://corona-cases-india.netlify.com/) is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the available APIs [here](https://covid-19-apis.postman.com/). Thankful to [this](https://github.com/covid19india) organization for such a wonderful API. The Open Graph image used is taken from [here](https://dribbble.com/shots/10789714-Stay-at-home-Stay-safe).
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/COVID19?logo=github)](https://github.com/vinitshahdeo/COVID19/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/gayatri192005/COVID19?logo=github)](https://github.com/gayatri192005/COVID19)
 
-> #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india: | [Source Code](https://github.com/vinitshahdeo/covid19api)
+> #### :point_right: See [live demo](https://corona-cases-india.netlify.com/) :link: | Check [COVID-19 Tracker](https://indiafightscorona.netlify.app/) :bar_chart: | INDIA :india: | [Source Code](https://github.com/gayatri1920005/covid19api)
 
 [![COVID-19 Tracker](./img/covid19screen.png)](http://corona-cases-india.netlify.com/)
 
@@ -82,36 +82,9 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ## < /> with ♡ by 
 
-
-|                                                                                         <a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/vinit-shahdeo.jpg" width="150px" height="150px" /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)**                                                                                                                                        |
-| <a href="https://twitter.com/Vinit_Shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
-
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
-
-> :point_right: Read my **open letter** [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). :heart:<br> :fountain_pen: :spiral_notepad: :envelope_with_arrow:
-
-----
 ```javascript
 
 if (_.isAwesome(thisRepo)) {
   thisRepo.star(); // thanks in advance :p
 }
-
 ```
-----
-
-[![COVID-19 Tracker INDIA](./img/banner-corona.png)](https://indiafightscorona.netlify.app/)
-
-[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
-
-<sup>**DISCLAIMER**: [This](http://corona-cases-india.netlify.com/) is an effort made to keep people updated with the latest news/reports related to `COVID-19`. Check the source for data [here](https://github.com/covid19india/api). It's a humble request to everyone to stay at home. Read the full disclaimer [here](./DISCLAIMER.md).</sup>
-
-[![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/covid-19tracker?logo=github)](https://indiafightscorona.netlify.app/) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/coronavirus?logo=github&color=orange)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/covid-19?color=tomato&logo=github)](https://github.com/vinitshahdeo) [![GitHub search hit counter](https://img.shields.io/github/search/vinitshahdeo/COVID19/corona?color=teal&logo=github)](https://github.com/vinitshahdeo) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=dodgerblue&logo=github)](https://github.com/vinitshahdeo)
-
-<p align="center"><strong><sup>:hugs: <br>Check out my other projects <a href="./PROJECTS.md">here</a>!</sup></strong></p>
-
-[![vinitshahdeo](./img/vinitshahdeo-graph.png)](https://github.com/vinitshahdeo)
