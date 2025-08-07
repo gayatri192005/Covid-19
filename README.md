@@ -5,27 +5,12 @@ Stay SAFE
 
 > ## 🚨 Check out the latest [**COVID-19 Tracker 📊 | INDIA 🇮🇳**](https://indiafightscorona.netlify.com/)
 
-```bash
-╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
-╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣ 
-╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝
-╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
-╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣ 
-╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
-```
-
 # :man: :blonde_woman: :house: :mask: :pray:
 
 
 #### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state-wise :bar_chart: Corona Cases in India! Keep yourself updated with latest news related to COVID-19.
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gayatri192005)
-
-I’m sure you’ll agree that, at this point, it isn’t an exaggeration
-to say that we are at war against the coronavirus and that it is a
-war we must win. The next few weeks are critical in this battle. I
-request everyone to stay at home and enjoy good time with
-family.
 
 <a href="https://www.producthunt.com/posts/covid-19-tracker-india?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid-19-tracker-india" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=191600&theme=light" alt="COVID-19 Tracker | India - Get real-time state wise stats of COVID-19 in India | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
