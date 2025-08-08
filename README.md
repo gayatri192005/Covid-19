@@ -65,11 +65,10 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2FCOVID19?ref=badge_large)
 
-## < /> with ♡ by 
+## < /> with ♡ by Gayatri G
 
-```javascript
+📞 Connect With Me – Gayatri G
 
-if (_.isAwesome(thisRepo)) {
-  thisRepo.star(); // thanks in advance :p
-}
-```
+📧 Email: gayatri192005@gmail.com
+💼 LinkedIn: linkedin.com/in/gayatri-g
+
